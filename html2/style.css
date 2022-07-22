@@ -1,0 +1,40 @@
+*{
+    color: #fff;
+}
+.sitemainbody{
+    width: 1440px;
+    height: 900px;
+    background-image: url("images/bgc.png") ;
+    background-size: cover;
+    margin: 0 auto;
+}
+.top-navigation {
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.body{
+    width: 1140px;
+    margin: 0 auto;
+}
+.main-menu{
+    display: flex;
+    justify-content: space-between; 
+    list-style: none;
+    border: 1px solid #fff;  
+}
+.buttons button{
+    padding: 15px 30px;
+    background-color: rgb(119, 62, 62);
+}
+.buttons{
+    margin-top: 500px;
+    display: flex;
+    justify-content: center;
+}
+.button1{
+    margin-right: 68px;
+}
+.blacksection{
+    height: ;
+}
